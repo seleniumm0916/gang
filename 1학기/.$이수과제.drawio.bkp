@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="페이지-1" id="zE6dvjffrGBZSjTdIv_j">
+    <mxGraphModel dx="571" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-1" value="집" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="586" y="580" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-3" value="황상동입구" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="536" y="650" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-4" value="인동광장 사거리" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="640" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-5" value="갈림길" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-6" value="옥계" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="446" y="430" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-7" value="금오교" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-8" value="학교" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-9" value="거의교" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-10" value="산호대교" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="580" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-11" value="체육공원" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="700" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VSE8E8NxZqVh1DOmiixX-12" value="구미대교" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="275" y="650" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
